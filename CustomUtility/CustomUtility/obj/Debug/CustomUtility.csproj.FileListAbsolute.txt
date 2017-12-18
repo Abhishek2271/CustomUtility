@@ -1,0 +1,5 @@
+D:\Program Files\Samples\CustomUtility\CustomUtility\bin\Debug\CustomUtility.dll
+D:\Program Files\Samples\CustomUtility\CustomUtility\bin\Debug\CustomUtility.pdb
+D:\Program Files\Samples\CustomUtility\CustomUtility\obj\Debug\ResolveAssemblyReference.cache
+D:\Program Files\Samples\CustomUtility\CustomUtility\obj\Debug\CustomUtility.dll
+D:\Program Files\Samples\CustomUtility\CustomUtility\obj\Debug\CustomUtility.pdb
